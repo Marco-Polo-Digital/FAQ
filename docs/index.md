@@ -1,25 +1,21 @@
-## Encuentra tu mism@ la respuesta a tu pregunta
+# Preguntas frecuentes
+## Encuentra la respuesta a tu pregunta
 
 You can use the [editor on GitHub](https://github.com/Marco-Polo-Digital/FAQ/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+### ¿Que hacer si se me desconecta el sesrvidor de BIP en la app del móvil?
 
 1. Numbered
 2. List
+
+
+
+
+
+
+### No recuerdo mi nombre de usuario o contraseña de acceso a BIP
 
 **Bold** and _Italic_ and `Code` text
 
