@@ -15,20 +15,23 @@ En caso de que la app móvil se desconecte del servidor, sigue estos pasos:
 2. Pulsa el enlace "cambiar contraseña"
 3. Sigue las instrucciones que te aparecerán en pantalla.
 
+## P3: No recibo notificaciones en mi móvil
 
-## No recuerdo mi nombre de usuario o contraseña de acceso a BIP
+1. Dirígete a https://app.aier.global
+2. Pulsa el enlace "cambiar contraseña"
+3. Sigue las instrucciones que te aparecerán en pantalla.
 
-**Bold** and _Italic_ and `Code` text
+## P4: No recibo las notificaciones en mi navegador
 
-[Link](url) and ![Image](src)
-```
+1. Dirígete a https://app.aier.global
+2. Pulsa el enlace "cambiar contraseña"
+3. Sigue las instrucciones que te aparecerán en pantalla.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## P5: Como crear un acceso directo en el escritorio
 
-### Jekyll Themes
+1. Accede a https://app.aier.global desde el navegador Google Chrome
+2. Ve a Ajustes > Más herramientas
+3. Haz clic sobre Crear acceso directo...
+4. Si quieres que se abra como una aplicación, sin pestañas ni barra de navegación, señala la casilla Abrir como ventana
+5. Guarda la web con el nombre que quieras
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marco-Polo-Digital/FAQ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
