@@ -1,9 +1,5 @@
 # Encuentra la respuesta a tu pregunta
 
-You can use the [editor on GitHub](https://github.com/Marco-Polo-Digital/FAQ/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## P1: ¿Que hacer si se me desconecta el sesrvidor de BIP en la app del móvil?
 
 En caso de que la app móvil se desconecte del servidor, sigue estos pasos:
@@ -13,27 +9,14 @@ En caso de que la app móvil se desconecte del servidor, sigue estos pasos:
 3. En "Enter workspace URL" escribe **aier.global** y pulsa el botón "Connect"
 4. Entra tu usuario (o email) y tu contraseña para acceder
 
-## P2: No recuerdo mi nombre de usuario o contraseña
+## P2: No recuerdo mi nombre de usuario o contraseña de acceso a BIP
 
 1. Dirígete a https://app.aier.global
 2. Pulsa el enlace "cambiar contraseña"
-3. Sigue las instrucciones que apareceráb en pantalla.
+3. Sigue las instrucciones que te aparecerán en pantalla.
 
 
-
-1. Entra en la app de Rocket.Chat 
-2. Pulsa el botón "Join a workspace"
-3. En "Enter workspace URL" escribe **aier.global** y pulsa el botón "Connect"
-4. Entra tu usuario (o email) y tu contraseña para acceder
-
-
-
-
-
-
-
-
-### No recuerdo mi nombre de usuario o contraseña de acceso a BIP
+## No recuerdo mi nombre de usuario o contraseña de acceso a BIP
 
 **Bold** and _Italic_ and `Code` text
 
