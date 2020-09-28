@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Encuentra tu mism@ la respuesta a tu pregunta
 
 You can use the [editor on GitHub](https://github.com/Marco-Polo-Digital/FAQ/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
