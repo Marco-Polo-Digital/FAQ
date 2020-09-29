@@ -28,8 +28,8 @@ Las notificaciones al móvil se intentan evitar al máximo, pues tienen un coste
 ## P5: No recibo las notificaciones en mi navegador
 
 1. Dirígete a https://app.aier.global
-
-2. Pulsa el enlace "cambiar contraseña"
-3. Sigue las instrucciones que te aparecerán en pantalla.
+2. Pulsa en el icono de candado que aparece en Google Chrome (arriba a la izquierda de https://app.aier.global)
+3. Pulsa en la configuración del sitio
+4. Permite las notificaciones
 
 
