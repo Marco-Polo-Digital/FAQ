@@ -1,5 +1,13 @@
 # Encuentra la respuesta a tu pregunta
 
+## P0: No he recibido la invitación para registrarme en BIP
+
+1. Dirígete a a https://app.aier.global
+2. Darle al enlace de "¿Has olvidado tu contraseña?" escribe tu email corporativo y dale al botón "RESTABLECER CONTRASEÑA"
+3. Habrás recibido un correo con un enlace. Dale. Te pedirá que escribas 2 veces la nueva contraseña que quieres (ojo de no tener activadas las mayúsculas del teclado)
+4. Te llevará a la pantalla de login, dónde tienes que poner tu email y tu nueva contraseña.
+
+
 ## P1: No recuerdo mi nombre de usuario o contraseña de acceso a BIP
 
 1. Dirígete a https://app.aier.global
